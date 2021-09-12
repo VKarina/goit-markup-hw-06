@@ -263,7 +263,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   text-align: center;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #ffffff;
   background-color: rgba(47, 48, 58, 0.8);
@@ -348,7 +348,7 @@ body {
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--secondary-title-color);
 }
 .clients-list {
@@ -416,7 +416,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   text-transform: uppercase;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: #ffffff;
 }
 .footer-social {
@@ -665,7 +665,7 @@ body {
   font-size: 20px;
   line-height: 1.15;
   text-align: center;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: #212121;
 }
 .form-field {
